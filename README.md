@@ -8,7 +8,7 @@ Windows desktop inspection, interaction, and verification for MCP-capable AI ass
 
 When development began, we already used ChatGPT's computer-control tools. Our WorkBuddy setup did not yet provide a dedicated desktop-control plugin or MCP. We wanted a reusable Windows automation layer for other MCP-capable clients, and a way to improve application-specific behavior ourselves.
 
-The project grew through real desktop tasks: Power BI controls, exports from an application without a suitable API, and custom-drawn chat interfaces. It complements first-party computer-use tools while respecting the AI client's own permissions and approval rules. [Read the development story in Chinese](docs/introduction.zh-CN.md).
+The project grew through real desktop tasks: Power BI controls, exports from an application without a suitable API, and custom-drawn chat interfaces. It complements first-party computer-use tools while respecting the AI client's own permissions and approval rules. Read the development story in [English](docs/introduction.md) or [简体中文](docs/introduction.zh-CN.md).
 
 ## Capabilities
 

@@ -1,5 +1,7 @@
 # Kuding Desktop MCP：从真实需求中打磨出来的 Windows 桌面自动化工具
 
+[English](introduction.md) | **简体中文**
+
 让 AI 打开软件、找到按钮、输入内容，再检查操作结果——这些能力正在让 AI 助手参与日常工作。我们开发 Kuding Desktop MCP（苦丁茶桌面 MCP），起点就是自己工作中的具体需求。
 
 ## 为什么在已有电脑控制工具时继续开发
