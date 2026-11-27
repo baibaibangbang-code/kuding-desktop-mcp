@@ -1,0 +1,8 @@
+{
+  "fixture": "Synthetic WinForms window",
+  "native_write_verified": true,
+  "native_invoke_verified": true,
+  "fixture_result_verified": true,
+  "screenshot_scope": "fixture window only",
+  "business_data_used": false
+}

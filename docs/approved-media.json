@@ -1,0 +1,7 @@
+{
+  "docs/assets/demo.png": {
+    "sha256": "89c112a8392819a5cdba071c3cdd6737d4fdd026aa93517240c5bc15dc21fb55",
+    "scope": "Only the project's synthetic WinForms fixture window",
+    "review": "Visually checked: synthetic text only, no accounts, business records, personal paths, or desktop background"
+  }
+}

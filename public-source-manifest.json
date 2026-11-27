@@ -1,0 +1,105 @@
+{
+  "upstream": "windows-mcp==0.8.5",
+  "patches": [
+    {
+      "path": "pkg/patch/windows_mcp/desktop/service.py",
+      "sha256": "cd18667151b2ffee9fd56ab97a48c9b2d56db22c4ac61088b7107fa3904aee47"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/infrastructure/analytics.py",
+      "sha256": "390eb0ff3435025b23d556f843f807eb043cb232fd3d560e6c621773a0cfc61e"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/powershell/service.py",
+      "sha256": "3ecfa7b18082792f6c3e7d017d124f04652807b4f85f5f2426263e3fe554eeef"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/__init__.py",
+      "sha256": "ce73f76172683542acbf6eaad72e07b34e6a0bcbf917b66066b6a919ec0986a2"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/_snapshot_helpers.py",
+      "sha256": "1de992f0152e7eb31950678b51669ecfabc1757de328e0d8ec7123d1e2dae44c"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/desktop_lock.py",
+      "sha256": "467a8912fff006ad9f354ae6714fc72580a50a22f40e6ba7bca2632b740d7452"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/frame_guard.py",
+      "sha256": "d51719275f487c246dfcaa6951c5646de24594145ad8971792406fc518fdc923"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/frame_wrap.py",
+      "sha256": "3c4269465dad2c681038ac1fc89e3e4873699f5ba4e6582cf561d1ee4fd62c7a"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/ime_safe_type.py",
+      "sha256": "640465b63e0798424538333c2e75d0ed622fb6f242628568aa0a0d88db06e2a6"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/ocr_find.py",
+      "sha256": "88abf114b2ccd666a9d7a5387a4fa99e97c6e1d387bdf4322050dfea2dbf9efe"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/overlay.py",
+      "sha256": "3911f008782fb0a47e286b4ed78e08f728f0f7ab8118c82974ad38f1eca73aa7"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/overlay_art.py",
+      "sha256": "feb95e69b9136f3bee8d38284dcbc91bf43a7e7629f59c02ad65dc058c9de31e"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/read_color.py",
+      "sha256": "c07d128dc1d99ce79c9d3a22baf27a7907f7ed41249479cd994497fab5778bae"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/safe_destroy.py",
+      "sha256": "f29c2705ad65ff6f8094a828571a862271e2289deb8d8b10a029ee632759d05b"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/scrape_guard.py",
+      "sha256": "a6c297f5ab13669fc8d93606192379dfeef34e4f2ac274c2ede42df602e3a13b"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/sequence.py",
+      "sha256": "540a0f550e2a8df7c2cd9632ae27a0e005b71e39fe4473c7a23504c971bda139"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/snapshot.py",
+      "sha256": "e562c319f8f2aabb43074251756a0518718b07633092beaca75a1486dd4f5983"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/type_here.py",
+      "sha256": "5cd2a9e1370222e5910ae9267962e76c96728d7939ee7195b3f838625105f818"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/uia_actions.py",
+      "sha256": "b316759c158beef975e39b83bde75a3c28a371c36d67abb9917124af51f67c2d"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/visual_find.py",
+      "sha256": "f9b59ab5b91b62d2c3bcbf1f53872c674ec676d1aa4e446adc321d7f2e6b96c1"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/wait_until.py",
+      "sha256": "1066959452cebffc9b85864403e2551da0fbf015b84079364572bb53cbff3dea"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/watch_change.py",
+      "sha256": "5b3344376e31e298f395fa218bc9bd7d43a418ffb4337677311d79009b4d8407"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tools/window_ctl.py",
+      "sha256": "18100148304151e20c386e68105b14124f3777f5d185ff3a5ad71af9d2dbcbd2"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tree/service.py",
+      "sha256": "e063eaa834a1b5b8fac470836d2785196d6b57d473d37abfe13b2e1fc5660b4d"
+    },
+    {
+      "path": "pkg/patch/windows_mcp/tree/views.py",
+      "sha256": "6def5cee4f91209a91298ec5dec75d1891b43b16dcba3a7fd72d06e4c2d94598"
+    }
+  ]
+}
